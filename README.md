@@ -7,15 +7,15 @@ We invite you to contribute by sharing your interview experiences and questions 
 
 1. What is JavaScript, and what are its key features?
 2. Explain the difference between `==` and `===` in JavaScript.
-11. What is the difference between `let`, `const`, and `var` in JavaScript? When would you use each?
-3. What is closure in JavaScript? Provide an example.
-4. How does prototypal inheritance work in JavaScript?
-5. What are the different data types in JavaScript?
-6. Describe event bubbling and event capturing in JavaScript.
-7. Explain the difference between `null` and `undefined` in JavaScript.
-8. What are the different ways to declare variables in JavaScript?
-9. How does Asynchronous JavaScript work, and what are the different techniques to handle it?
-10. What is the purpose of the `this` keyword in JavaScript? How is its value determined?
+3. What is the difference between `let`, `const`, and `var` in JavaScript? When would you use each?
+4. What is closure in JavaScript? Provide an example.
+5. How does prototypal inheritance work in JavaScript?
+6. What are the different data types in JavaScript?
+7. Describe event bubbling and event capturing in JavaScript.
+8. Explain the difference between `null` and `undefined` in JavaScript.
+9. What are the different ways to declare variables in JavaScript?
+10. How does Asynchronous JavaScript work, and what are the different techniques to handle it?
+11. What is the purpose of the `this` keyword in JavaScript? How is its value determined?
 12. Explain the concept of hoisting in JavaScript.
 13. What are arrow functions in JavaScript? How do they differ from regular functions?
 14. What is the purpose of the `Promise` object in JavaScript? How do you use it?
@@ -25,22 +25,37 @@ We invite you to contribute by sharing your interview experiences and questions 
 18. What is a callback function in JavaScript? Provide an example of how you would use one.
 19. What are the different ways to handle errors in JavaScript?
 20. Describe the concept of a higher-order function in JavaScript. Provide an example.
+21. What is the difference between synchronous and asynchronous code execution in JavaScript?
+22. Describe the difference between the `for...in` loop and the `for...of` loop in JavaScript.
+23. Explain the difference between `map` and `forEach` in JavaScript.
+24. What are the differences between `splice` and `slice` in JavaScript? Provide examples of each.
 
 ### React Developer Interview Questions:
 
 1. What is React, and what are its key features?
 2. Why do some developers prefer React over Angular and Vue.js?
-3. Explain the difference between class components and functional components in React.
-4. What is JSX, and why is it used in React?
-5. What are React Fragments, and why are they used?
-6. What are the lifecycle methods in React, and how do they work?
-7. What is state in React, and how is it managed?
-8. Describe the concept of virtual DOM in React.
-9. How does React Router work, and what are its key components?
-10. What are controlled components in React? Provide an example.
+3. Give the two most significant drawbacks of React.
+4. Explain the difference between class components and functional components in React.
+5. What is JSX, and why is it used in React?
+6. What are React Fragments, and why are they used?
+7. What are the lifecycle methods in React, and how do they work?
+8. What is state in React, and how is it managed?
+9. Describe the concept of virtual DOM in React.
+10. What is Babel in React js ?
 11. What are React Hooks, and how do they differ from class-based components?
-12. Explain the concept of Higher Order Components (HOCs) in React.
+12. How does React Router work, and what are its key components?
 13. Describe the concept of context in React. How is it used to pass data through the component tree?
+14. What are controlled components in React? Provide an example.
+15. What are the main difference between Pros and State ? 
+16. What are React Hooks, and how do they differ from class-based components?
+17. Explain the concept of Higher Order Components (HOCs) in React.
+18. Describe the concept of context in React. How is it used to pass data through the component tree?
+19. What is the Flux architecture, and how does it differ from traditional MVC?
+20. What is Redux, and how does it complement React?
+21. How does Redux handle state management in a React application?
+22. What is the 'Store' feature in Redux, and how does it manage application state?
+23. Explain the role of the dispatcher in Redux and how it facilitates the flow of actions to reducers.
+24. How do you optimize performance in a React application?
 
 
 ### Java Developer Interview Questions:
