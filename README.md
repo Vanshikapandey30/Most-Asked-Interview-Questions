@@ -108,3 +108,25 @@ We invite you to contribute by sharing your interview experiences and questions 
 9. What are microservices, and how do they differ from monolithic architectures?
 10. Discuss the importance of security in backend development, and list some common security vulnerabilities and how to mitigate them.
 
+### MongoDB Interview Questions:
+
+1. What is MongoDB?
+2. What are the key features of MongoDB?
+3. Explain the concept of BSON in MongoDB.
+4. What is Sharding in MongoDB?
+5. What is the difference between MongoDB and MySQL?
+6. Explain the concept of indexing in MongoDB.
+7. What is a Replica Set in MongoDB?
+8. Explain the concept of GridFS in MongoDB.
+9. What is the role of Mongoose in MongoDB?
+10. What is the significance of the ObjectId in MongoDB?
+11. How does MongoDB ensure high availability?
+12. What is the role of the WiredTiger storage engine in MongoDB?
+13. Explain the concept of Aggregation in MongoDB.
+14. What are the different types of NoSQL databases, and how does MongoDB differ from them?
+15. How does MongoDB provide flexibility in schema design?
+16. What is the significance of write concern in MongoDB?
+17. Explain the concept of capped collections in MongoDB.
+18. What is TTL (Time To Live) in MongoDB?
+19. How does MongoDB handle transactions?
+20. What are the best use cases for MongoDB?
