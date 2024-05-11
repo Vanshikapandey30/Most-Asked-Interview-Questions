@@ -130,3 +130,26 @@ We invite you to contribute by sharing your interview experiences and questions 
 18. What is TTL (Time To Live) in MongoDB?
 19. How does MongoDB handle transactions?
 20. What are the best use cases for MongoDB?
+
+### SQL Interview Questions
+
+1. What is SQL?
+2. Differentiate between SQL and MySQL.
+3. Explain the difference between DELETE and TRUNCATE commands.
+4. What is a primary key and foreign key in SQL?
+5. Explain the difference between CHAR and VARCHAR data types.
+6. What is the purpose of the GROUP BY clause?
+7. What is the difference between INNER JOIN and OUTER JOIN?
+8. What is a subquery in SQL?
+9. How do you handle NULL values in SQL?
+10. What is the purpose of the HAVING clause?
+11. Explain the difference between UNION and UNION ALL.
+12. How do you optimize SQL queries?
+13. What is normalization and denormalization in SQL?
+14. Explain the difference between clustered and non-clustered indexes.
+15. How do you find duplicate records in a table?
+16. What is an alias in SQL? Provide an example.
+17. How do you update data in a table using SQL?
+18. What is the purpose of the CASE statement in SQL?
+19. Explain the difference between a view and a table.
+20. How do you perform a backup and restore in SQL Server?
