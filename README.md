@@ -29,6 +29,16 @@ We invite you to contribute by sharing your interview experiences and questions 
 22. Describe the difference between the `for...in` loop and the `for...of` loop in JavaScript.
 23. Explain the difference between `map` and `forEach` in JavaScript.
 24. What are the differences between `splice` and `slice` in JavaScript? Provide examples of each.
+25. Explain what memoization is and how it can be used to optimize function performance.
+26. How do you implement memoization in JavaScript?
+27. What are closures in JavaScript? How are they related to memoization?
+28. Explain the concept of scope and lexical scope in JavaScript, especially in the context of closures.
+29. What are the rest and spread operators in JavaScript? How do they differ?
+30. How do you use the rest operator (...) to collect function arguments into an array?
+31. How can you use the spread operator (...) to merge two or more objects in JavaScript?
+31. Discuss a scenario where you would use the rest operator in a function parameter.
+33. Can you explain a practical use case for the spread operator in JavaScript?
+
 
 ### React Developer Interview Questions:
 
@@ -57,7 +67,6 @@ We invite you to contribute by sharing your interview experiences and questions 
 23. Explain the role of the dispatcher in Redux and how it facilitates the flow of actions to reducers.
 24. How do you optimize performance in a React application?
 
-
 ### Java Developer Interview Questions:
 
 1. What are the main features of Java programming language?
@@ -70,6 +79,39 @@ We invite you to contribute by sharing your interview experiences and questions 
 8. Explain the concept of multithreading in Java.
 9. What are the different types of inheritance in Java?
 10. What is the purpose of the `static` keyword in Java?
+
+### CSS Interview Questions:
+
+1. What is CSS?
+2. Differentiate between CSS3 and CSS2.
+3. What are the different ways to include CSS in a webpage?
+4. What are the different types of Selectors in CSS?
+5. Name some CSS frameworks.
+6. What is the box model in CSS?
+7. What are the different `types of Selectors` in CSS?
+8. Explain the specificity hierarchy of CSS `selectors`, starting from the `most specific` to the `least specific`.
+9. What do you understand by the universal selector?
+10. What is Flexbox in CSS and how does it differ from traditional layout methods?
+11. What are the main properties of Flexbox and how are they used?
+12. What is the Grid system in CSS and how does it work?
+13. What are the main properties of the Grid system and how are they used?
+14. How can you create a responsive layout using Flexbox?
+15. What is the purpose of the `grid-template-areas` property in CSS Grid?
+16. What is the difference between Flexbox and the Grid system?
+17. What is the difference between `display: block`, `display: inline`, and `display: inline-block`?
+18. What are pseudo-classes in CSS?
+19. What is the difference between `padding` and `margin` in CSS?
+20. What is the CSS `z-index` property used for?
+21. What is the difference between `position: relative`, `position: absolute`, and `position: fixed`?
+22. What is meant by `RGB` stream?
+23. Name media types allowed by CSS.
+24. Explain responsive web design.
+25. What is VH/VW (viewport height/ viewport width) in CSS?
+26. How is the border-box different from the content box?
+27. How does Calc work?
+28. What is the difference between CSS variables and pre-processor (SASS, LESS, Stylus) variables?
+29. What does `* { box-sizing: border-box; }` do? What are its advantages?
+
 
 ### Web Developer Interview Questions:
 
@@ -108,25 +150,3 @@ We invite you to contribute by sharing your interview experiences and questions 
 9. What are microservices, and how do they differ from monolithic architectures?
 10. Discuss the importance of security in backend development, and list some common security vulnerabilities and how to mitigate them.
 
-### MongoDB Interview Questions:
-
-1. What is MongoDB?
-2. What are the key features of MongoDB?
-3. Explain the concept of BSON in MongoDB.
-4. What is Sharding in MongoDB?
-5. What is the difference between MongoDB and MySQL?
-6. Explain the concept of indexing in MongoDB.
-7. What is a Replica Set in MongoDB?
-8. Explain the concept of GridFS in MongoDB.
-9. What is the role of Mongoose in MongoDB?
-10. What is the significance of the ObjectId in MongoDB?
-11. How does MongoDB ensure high availability?
-12. What is the role of the WiredTiger storage engine in MongoDB?
-13. Explain the concept of Aggregation in MongoDB.
-14. What are the different types of NoSQL databases, and how does MongoDB differ from them?
-15. How does MongoDB provide flexibility in schema design?
-16. What is the significance of write concern in MongoDB?
-17. Explain the concept of capped collections in MongoDB.
-18. What is TTL (Time To Live) in MongoDB?
-19. How does MongoDB handle transactions?
-20. What are the best use cases for MongoDB?
